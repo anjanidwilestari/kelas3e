@@ -1,15 +1,24 @@
 {
-  "mahasiswa": 
-  [
-    {"id": 1, "nama": "Anjani Dwilestari", "alamat": "Pasuruan"},
-    {"id": 2, "nama": "Bella Sonia", "alamat": "Mojokerto"}
-    {"id": 3, "nama": "Ardian Bhagaskara", "alamat": "Pasuruan"}
-  ],
-  "organisasi": 
-  [
-    {"id": 1, "nama": "HMTI", "sekretariat": "Gedung AS"}
-    {"id": 2, "nama": "RISPOL", "sekretariat": "Gedung AS"}
-    {"id": 3, "nama": "SENI", "sekretariat": "Gedung AS"}
-    {"id": 4, "nama": "PASTI", "sekretariat": "Gedung AS"}
-  ]
+"mahasiswa" : [
+	{"id" : 1,
+	"nama" : "jono",
+	"alamat" : "malang"},
+	{
+	"id" : 2,
+	"nama" : "jojon",
+	"alamat" : "pasuruan"
+	},
+	{
+	"id" : 3,
+	"nama" : "jujun",
+	"alamat" : "pasuruan"
+	}
+],
+"organisasi": [
+		{"id" : 1, "nama" : "HMTI", "sekretariat" : "Gedung AS"},
+		{"id" : 2, "nama" : "RISPOL", "sekretariat" : "Gedung AS"},
+		{"id" : 3, "nama" : "PASTI", "sekretariat" : "Gedung AS"},
+		{"id" : 4, "nama" : "USMA", "sekretariat" : "Gedung AS"},
+		{"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
+	]
 }
